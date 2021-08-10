@@ -1,0 +1,15 @@
+{
+    "name": "ywls/service",
+    "description": "serivce",
+    "type": "library",
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "authors": [
+        {
+            "name": "cool",
+            "email": "cool@520.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
